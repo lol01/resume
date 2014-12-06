@@ -1,3 +1,3 @@
 #### Jeanine Otter // Resume // Web Developer, Urban Planner
 
-[Click here to view](http://jeanie4000.github.com/resume/)
+[Click here to view resume](http://jotter4000.github.io/resume)
